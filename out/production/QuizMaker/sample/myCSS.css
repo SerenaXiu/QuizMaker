@@ -1,0 +1,20 @@
+.buttonanswer{
+    -fx-shape:"M 200 300 L 225 275 L 375 275 L 400 300 L 375 325 L 225 325 L 200 300";
+    -fx-background-color:"#0a58a1";
+    -fx-border-color:"#321bb5";
+    -fx-border-width:4;
+    -fx-text-fill:"white";
+    -fx-font-size:20px;
+    -fx-font-weight:bold;
+}
+
+.buttonJoker{
+    -fx-arc-height: 200px;
+    -fx-arc-width: 100px;
+    -fx-background-color:"FFAB33";
+    -fx-border-color:"#321bb5";
+    -fx-border-width:4;
+    -fx-text-fill:"black";
+    -fx-font-size:20px;
+    -fx-font-weight:bold;
+}

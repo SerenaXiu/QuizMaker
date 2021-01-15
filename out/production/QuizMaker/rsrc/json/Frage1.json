@@ -1,0 +1,25 @@
+{
+	"Schwierigkeit":"S1",
+	"Frage1":"Wie viele Spieler stehen bei einem Tennis ‘Doppel’ am Feld?",
+	"A1": {
+		"Antwort0":"4",
+		"Antwort1":"2",
+		"Antwort2":"6",
+		"Antwort3":"8"
+		},
+	"Frage2":"Wie viele km legt man bei einem Marathon zurück?",
+	"A2": {
+		"Antwort0":"42",
+		"Antwort1":"18",
+		"Antwort2":"21",
+		"Antwort3":"35"
+		},
+	"Frage3":"Wie viele Spieler stehen beim Basketball pro Mannschaft am Feld?",
+	"A3": {
+		"Antwort0":"5",
+		"Antwort1":"3",
+		"Antwort2":"9",
+		"Antwort3":"11"
+		}
+}
+

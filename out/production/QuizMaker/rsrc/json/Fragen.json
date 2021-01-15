@@ -1,0 +1,396 @@
+{
+	"Schwierigkeit":"S1",
+	"Frage1":"Wie viele Spieler stehen bei einem Tennis ‘Doppel’ am Feld?",
+	"A1": {
+		"Antwort0":"4",
+		"Antwort1":"2",
+		"Antwort2":"6",
+		"Antwort3":"8"
+		},
+	"Frage2":"Wie viele km legt man bei einem Marathon zurück?",
+	"A2": {
+		"Antwort0":"42",
+		"Antwort1":"18",
+		"Antwort2":"21",
+		"Antwort3":"35"
+		},
+	"Frage3":"Wie viele Spieler stehen beim Basketball pro Mannschaft am Feld?",
+	"A3": {
+		"Antwort0":"5",
+		"Antwort1":"3",
+		"Antwort2":"9",
+		"Antwort3":"11"
+		},
+	"Frage4":"Wie lange dauert ein Spielabschnitt (Drittel) im Eishockey?",
+	"A4": {
+		"Antwort0":"20 Minuten",
+		"Antwort1":"10 Minuten",
+		"Antwort2":"30 Minuten",
+		"Antwort3":"45 Minuten"
+		},
+	"Frage5":"Wie viele Yards muss man gehen um beim Football von einer Endzone in die andere zu gelangen?",
+	"A5": {
+		"Antwort0":"100",
+		"Antwort1":"120",
+		"Antwort2":"80",
+		"Antwort3":"60"
+		},
+	"Frage6":"Welchen Pokal gewinnt man wenn man den Superbowl (American Football) gewinnt?",
+	"A6": {
+		"Antwort0":"Vince-Lombardy Trophy",
+		"Antwort1":"Stanley Cup",
+		"Antwort2":"Commissioners Trophy",
+		"Antwort3":"Larry O’Brian Trophy"
+		},
+	"Frage7":"In welchen Ländern fand die Fussball Europmeisterschaft 2008 statt?",
+	"A7": {
+		"Antwort0":"Österreich & Schweiz",
+		"Antwort1":"Russland & Ukraine",
+		"Antwort2":"Spanien & Portugal",
+		"Antwort3":"USA & Mexico"
+		},
+	"Frage8":"Wie viele Hürden muss man beim 400m Hürdenlauf überqueren?",
+	"A8": {
+		"Antwort0":"10",
+		"Antwort1":"12",
+		"Antwort2":"15",
+		"Antwort3":"18"
+		},
+	"Frage9":"Welcher Wettkampf kommt beim klassischen 10-Kampf nicht vor?",
+	"A9": {
+		"Antwort0":"400m Hürdenlauf",
+		"Antwort1":"Stabhochsprung",
+		"Antwort2":"Diskuswurf",
+		"Antwort3":"100m Sprint"
+		},
+	"Frage10":"Wie heißt der größte Youtuber der Welt?",
+	"A10": {
+		"Antwort0":"Pewdiepie",
+		"Antwort1":"TSeries",
+		"Antwort2":"Charliebitmyfinger",
+		"Antwort3":"KuchenTV"
+		},
+	"Frage11":"Wie heißt der Hauptcharakter in Legend of Zelda?",
+	"A11": {
+		"Antwort0":"Link",
+		"Antwort1":"Gollum",
+		"Antwort2":"Zelda",
+		"Antwort3":"Mario"
+		},
+	"Frage12":"Welche Karte bekommt man bei Fifa wenn ein schweres Foul begangen wurde?",
+	"A12": {
+		"Antwort0":"rot",
+		"Antwort1":"gelb",
+		"Antwort2":"blau",
+		"Antwort3":"grün"
+		},
+	"Frage13":"Wie viele Planeten hat das Spiel 'Nomanssky'?",
+	"A13": {
+		"Antwort0":"unendlich",
+		"Antwort1":"16",
+		"Antwort2":"64",
+		"Antwort3":"1"
+		},
+	"Frage14":"Welches 'Age of Empire' Spiel gab es nicht??",
+	"A14": {
+		"Antwort0":"AoE4",
+		"Antwort1":"AoE2",
+		"Antwort2":"AoE3",
+		"Antwort3":"AoE1"
+		},
+	"Frage15":"Wie viele Spieler stehen beim Fußball insgesamt auf dem Feld?",
+	"A15": {
+		"Antwort0":"20+2",
+		"Antwort1":"10+1",
+		"Antwort2":"22+2",
+		"Antwort3":"11+1"
+		},
+	"Frage16":"Zu welcher Spielkategorie zählt 'World of Warcraft'?",
+	"A16": {
+		"Antwort0":"MMORPG",
+		"Antwort1":"Simulatorspiel",
+		"Antwort2":"Survivalspiel",
+		"Antwort3":"Shooter"
+		},
+	"Frage17":"Welches Spiel wurde von 'EpicGames' entwickelt und wieder verkauft?",
+	"A17": {
+		"Antwort0":"Paragon",
+		"Antwort1":"Fortnite",
+		"Antwort2":"Rayman",
+		"Antwort3":"Kill the Boss"
+		},
+	"Frage18":"Welche Schauspielerin spielt die Rolle der Hermine in den Harry Potter Filmen?",
+	"A18": {
+		"Antwort0":"Emma Watson",
+		"Antwort1":"Emma Roberts",
+		"Antwort2":"Emma Thompson",
+		"Antwort3":"Emma Stone"
+		},
+	"Frage19":"Was stellen Walter White und Jesse Pinkman in der Serie Breaking Bad her?",
+	"A19": {
+		"Antwort0":"Crystal Meth",
+		"Antwort1":"Kokain",
+		"Antwort2":"Schnaps",
+		"Antwort3":"Ecstasy"
+		},
+	"Frage20":"Wieviele Filme umfasst die Hunger Games Saga?",
+	"A20": {
+		"Antwort0":"4",
+		"Antwort1":"3",
+		"Antwort2":"2",
+		"Antwort3":"5"
+		},
+	"Frage21":"Wie heißen Hund und Katze der Simpson-Familie?",
+	"A21": {
+		"Antwort0":"Knecht Ruprecht und Snowball",
+		"Antwort1":"Santa Clause und Meatball",
+		"Antwort2":"Angel und Fireball",
+		"Antwort3":"Krampus und Basketball"
+		},
+	"Frage22":"Wie heißen die Neffen von Donald Duck?",
+	"A22": {
+		"Antwort0":"Tick, Trick und Track",
+		"Antwort1":"Tic Tac und Toe",
+		"Antwort2":"Heinz Hubert und Helmut",
+		"Antwort3":"Thomas Tobias und Alex"
+		},
+	"Frage23":"Auf welcher Insel wurde der Film “The Beach” mit Leonardo DiCaprio gedreht?",
+	"A23": {
+		"Antwort0":"Koh Phi Phi",
+		"Antwort1":"Koh Lanta",
+		"Antwort2":"Koh Samui",
+		"Antwort3":"Koh Yao Noi"
+		},
+	"Frage24":"Wer schrieb Herr der Ringe?",
+	"A24": {
+		"Antwort0":"J.R.R. Tolkien",
+		"Antwort1":"Lewis Carroll",
+		"Antwort2":"Oscar Wilde",
+		"Antwort3":"Jane Austen"
+		},
+	"Frage25":"Welche Schauspielerin verkörpert Mary Poppins in der Verfilmung von 1964?",
+	"A25": {
+		"Antwort0":"Julie Andrews",
+		"Antwort1":"Emily Blunt",
+		"Antwort2":"Judy Dench",
+		"Antwort3":"Maggie Smith"
+		},
+	"Frage26":"Wie heißt Spider-Man im wahren Leben?",
+	"A26": {
+		"Antwort0":"Peter Parker",
+		"Antwort1":"Elliot Evans",
+		"Antwort2":"Steve Smith",
+		"Antwort3":"Harry Higgins"
+		},
+	"Frage27":"Wann passierte der Angriff auf Pearl Harbor durch Japan?",
+	"A27": {
+		"Antwort0":"1941",
+		"Antwort1":"1935",
+		"Antwort2":"1939",
+		"Antwort3":"1945"
+		},
+	"Frage28":"Wie heißt der Schrotthändler, bei dem Anakin Skywalker als Sklave arbeiten muss?",
+	"A28": {
+		"Antwort0":"Watto",
+		"Antwort1":"Otto",
+		"Antwort2":"Nitto",
+		"Antwort3":"Katto"
+		},
+	"Frage29":"Wie viele Wörter sprach Arnold Schwarzenegger während des gesamten Films 'Terminator 2: Tag der Abrechnung'?",
+	"A29": {
+		"Antwort0":"700",
+		"Antwort1":"200",
+		"Antwort2":"1200",
+		"Antwort3":"1500"
+		},
+	"Frage30":"Wer hält mit bislang 21 Oscar-Nominierungen den Rekord als meist-nominierte Schauspielerin aller Zeiten?",
+	"A30": {
+		"Antwort0":"Meryl Streep",
+		"Antwort1":"Ingrid Bergman",
+		"Antwort2":"Katharine Hepburn",
+		"Antwort3":"Julia Roberts"
+		},
+	"Frage31":"Wie heißt der Animationsfilm, in dem Donald Duck seinen ersten Auftritt hatte?",
+	"A31": {
+		"Antwort0":"Wise Little Hen",
+		"Antwort1":"Steamboat Willie",
+		"Antwort2":"Donald´s Nephews",
+		"Antwort3":"The Band Concert"
+		},
+	"Frage32":"Wie viele Oscars gewann E.T.-Der Außerirdische?",
+	"A32": {
+		"Antwort0":"4",
+		"Antwort1":"2",
+		"Antwort2":"0",
+		"Antwort3":"5"
+		},
+	"Frage33":"Wofür steht die Abkürzung USB?",
+	"A33": {
+		"Antwort0":"Universal Serial Bus",
+		"Antwort1":"Unified Source Build",
+		"Antwort2":"Unilateral Sequence Break",
+		"Antwort3":"United Serial Beam"
+		},
+	"Frage34":"Wieviele Megabyte sind 2 Gigabyte?",
+	"A34": {
+		"Antwort0":"2048",
+		"Antwort1":"2000",
+		"Antwort2":"248",
+		"Antwort3":"200"
+		},	
+	"Frage35":"Wofür steht die Abkürzung HDTV?",
+	"A35": {
+		"Antwort0":"High Definition Television",
+		"Antwort1":"Half Dedicated Television",
+		"Antwort2":"Hyper Declined Television",
+		"Antwort3":"Hard Drive Television"
+		},
+	"Frage36":"Wer oder was ist ASCII?",
+	"A36": {
+		"Antwort0":"ein Zeichencode",
+		"Antwort1":"eine bemannte Raumfähre",
+		"Antwort2":"eine Partei in Nigeria",
+		"Antwort3":"Ascorbinsäure und Sauerstoff"
+		},
+	"Frage37":"Wie heißt der Gründer von Microsoft?",
+	"A37": {
+		"Antwort0":"Bill Gates",
+		"Antwort1":"Steve Jobs",
+		"Antwort2":"Larry Page",
+		"Antwort3":"Jeff Bezos"
+		},
+	"Frage38":"Wann stellte Apple den ersten Macintosh vor?",
+	"A38": {
+		"Antwort0":"1984",
+		"Antwort1":"2001",
+		"Antwort2":"1992",
+		"Antwort3":"1972"
+		},
+	"Frage39":"Wonach wurde die Programmiersprache Python benannt?",
+	"A39": {
+		"Antwort0":"einer britischen Komikergruppe",
+		"Antwort1":"einer Schlange",
+		"Antwort2":"Pythagoras",
+		"Antwort3":"einem Schiff"
+		},
+	"Frage40":"Welches Protokoll wird verwendet um Daten in einen Browser sicher zu laden? ",
+	"A40": {
+		"Antwort0":"HTTPS",
+		"Antwort1":"HTML",
+		"Antwort2":"WWW",
+		"Antwort3":"JAVA"
+		},
+	"Frage41":"Wofür steht die Abkürzung BIOS?",
+	"A41": {
+		"Antwort0":"Basic Input Output System",
+		"Antwort1":"Board Integrated Operating System",
+		"Antwort2":"Board Input Output System",
+		"Antwort3":"Basic Integrated Onboard System"
+		},
+	"Frage42":"Wer ist kein Prozessorhersteller?",
+	"A42": {
+		"Antwort0":"Acer",
+		"Antwort1":"Sony",
+		"Antwort2":"Intel",
+		"Antwort3":"IBM"
+		},
+	"Frage43":"Von wem wurde ADSL entwickelt?",
+	"A43": {
+		"Antwort0":"Motorola",
+		"Antwort1":"IBM",
+		"Antwort2":"AOL",
+		"Antwort3":"Intel"
+		},
+	"Frage44":"Wann wurde die erste Computermaus vorgestellt?",
+	"A44": {
+		"Antwort0":"1968",
+		"Antwort1":"1972",
+		"Antwort2":"1970",
+		"Antwort3":"1966"
+		},
+	"Frage45":"In welchem Jahr begann die Geschichte des Internets?",
+	"A45": {
+		"Antwort0":"1969",
+		"Antwort1":"1968",
+		"Antwort2":"1970",
+		"Antwort3":"1971"
+		},
+	"Frage46":"Wer baute 1832 den ersten mechanischen Computer?",
+	"A46": {
+		"Antwort0":"Charles Babbage",
+		"Antwort1":"Konrad Zuse",
+		"Antwort2":"Blaise Pascal",
+		"Antwort3":"Hermann Hollerith"
+		},
+	"Frage47":"Wie hoch ist die Übertragungsrate bei USB 2.0?",
+	"A47": {
+		"Antwort0":"40 MB/s",
+		"Antwort1":"30 MB/s",
+		"Antwort2":"50 MB/s",
+		"Antwort3":"10 MB/s"
+		},
+	"Frage48":"Was wird NICHT zur Formung der Augenbrauen verwendet?",
+	"A48": {
+		"Antwort0":"Eyeliner",
+		"Antwort1":"Schablone",
+		"Antwort2":"Pinzette",
+		"Antwort3":"Wachs"
+		},
+	"Frage49":"Welches Produkt wird NICHT für die Lippen eingesetzt?",
+	"A49": {
+		"Antwort0":"Blush",
+		"Antwort1":"Puder",
+		"Antwort2":"Peeling",
+		"Antwort3":"Gloss"
+		},
+	"Frage50":"Der Highlighter wird benützt um…",
+	"A50": {
+		"Antwort0":"Gesichtspartien hervorzuheben",
+		"Antwort1":"Texte zu markieren",
+		"Antwort2":"das Gesicht zu konturieren",
+		"Antwort3":"in der Nacht sichtbar zu sein"
+		},
+	"Frage51":"Aus welchem Land stammen Tuchmasken?",
+	"A51": {
+		"Antwort0":"Südkorea",
+		"Antwort1":"Paris",
+		"Antwort2":"China",
+		"Antwort3":"London"
+		},
+	"Frage52":"Zahnpasta mit Aktivkohle hilft gegen?",
+	"A52": {
+		"Antwort0":"Verfärbung",
+		"Antwort1":"Zahnstein",
+		"Antwort2":"Karies",
+		"Antwort3":"Mundgeruch"
+		},
+	"Frage53":"Welche der Marken ist für ihre veganen Produkte bekannt?",
+	"A53": {
+		"Antwort0":"Yves Rocher",
+		"Antwort1":"Bebe",
+		"Antwort2":"Chanel",
+		"Antwort3":"L'Oreal"
+		},
+	"Frage54":"Welches dieser Kosmetik-Marken kommt aus Südkorea?",
+	"A54": {
+		"Antwort0":"The Face-Shop",
+		"Antwort1":"The Body-Shop",
+		"Antwort2":"Kotoshina",
+		"Antwort3":"Essence"
+		},
+	"Frage55":"Was wird NICHT in der Kosmetik-Industrie verwendet?",
+	"A55": {
+		"Antwort0":"Vanillezucker",
+		"Antwort1":"Gold und Silber",
+		"Antwort2":"Rotkraut",
+		"Antwort3":"Backpulver"
+		},
+	"Frage56":"Aktivkohle besteht aus Torf, Braunkohle, Schwarzkohle, kohlenstoffhaltigen Materialien, Fruchtkernen und ____.",
+	"A56": {
+		"Antwort0":"Holz",
+		"Antwort1":"Sand",
+		"Antwort2":"Gemüsekerne",
+		"Antwort3":"Steinkohle"
+		}
+}
+
